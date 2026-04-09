@@ -3,7 +3,7 @@
 ## Sobre mim:
 
 Sou desenvolvedor front-end e bacharel em Sistemas de Informação. <br>
-Estou sempre em busca de aprimorar meus conhecimentos, especialmente em React, biblioteca que venho estudando continuamente.
+Tenho paixão por tecnologia e atualmente, venho direcionando minha evolução profissional para o ecossistema React e Next.js, desenvolvendo projetos práticos e aprofundando conhecimentos em tecnologias modernas do front-end.
 <br><br>
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciuspachecof/)
